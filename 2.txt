@@ -1,0 +1,6 @@
+MOV A,16
+MOV B,04
+MOV C,A
+MOV A,B
+MOV B,C
+MOV C,0
